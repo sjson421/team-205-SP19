@@ -1,0 +1,20 @@
+##### JetBrains
+.idea/
+*.iml
+##### file backups
+*~
+*.*~
+##### log file
+*.lck
+*.log*
+##### eclipse files
+.checkstyle
+.classpath
+.metadata/
+.project
+.recommenders/
+.settings/
+.sonarlint/
+target/
+*.class
+

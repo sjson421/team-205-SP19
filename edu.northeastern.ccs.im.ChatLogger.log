@@ -1,0 +1,282 @@
+2019-03-28 20:05:39.934 [pool-2-thread-18] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - REGISTER 9 raghavp96 2 --
+2019-03-28 20:05:40.685 [pool-2-thread-18] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 17 Register Success!
+2019-03-28 20:06:35.741 [pool-2-thread-14] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 9 raghavp96 2 --
+2019-03-28 20:06:35.871 [pool-2-thread-14] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-28 20:06:49.741 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BCT 9 raghavp96 2 hi
+2019-03-28 20:06:49.741 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 9 raghavp96 2 hi
+2019-03-29 12:20:08.805 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - REGISTER 8 raghavp6 2 --
+2019-03-29 12:20:09.205 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 17 Register Success!
+2019-03-29 12:20:43.834 [pool-2-thread-3] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 8 raghavp6 2 --
+2019-03-29 12:20:43.992 [pool-2-thread-3] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 12:20:48.433 [pool-2-thread-14] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BCT 8 raghavp6 2 hi
+2019-03-29 12:20:48.434 [pool-2-thread-14] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 8 raghavp6 2 hi
+2019-03-29 12:33:07.172 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 8 raghavp6 2 --
+2019-03-29 12:33:07.513 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 12:33:20.577 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - REGISTER 4 jay1 2 --
+2019-03-29 12:33:20.762 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 17 Register Success!
+2019-03-29 12:33:26.379 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 4 jay1 2 --
+2019-03-29 12:33:26.581 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 12:33:29.775 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BCT 4 jay1 2 hi
+2019-03-29 12:33:29.775 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 4 jay1 2 hi
+2019-03-29 12:33:29.925 [pool-2-thread-4] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 4 jay1 2 hi
+2019-03-29 12:34:52.430 [pool-2-thread-14] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - REGISTER 8 raghavp6 2 --
+2019-03-29 12:34:52.590 [pool-2-thread-14] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 17 Register Success!
+2019-03-29 12:34:58.230 [pool-2-thread-16] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 8 raghavp6 2 --
+2019-03-29 12:34:58.333 [pool-2-thread-16] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 36 Login failed! Password is incorrect!
+2019-03-29 12:35:04.431 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghap6 2 --
+2019-03-29 12:35:04.433 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 36 Login failed! There is no such user!
+2019-03-29 12:35:07.831 [pool-2-thread-4] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 8 raghavp6 2 --
+2019-03-29 12:35:07.954 [pool-2-thread-4] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 12:47:39.340 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - REGISTER 7 raghav1 2 --
+2019-03-29 12:47:40.296 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 17 Register Success!
+2019-03-29 12:47:47.721 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 12:47:47.872 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 12:47:52.319 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BCT 7 raghav1 2 hi
+2019-03-29 12:47:52.320 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 7 raghav1 2 hi
+2019-03-29 12:47:59.519 [pool-2-thread-4] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BYE 7 raghav1 2 --
+2019-03-29 12:47:59.519 [pool-2-thread-4] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BYE 2 -- 2 --
+2019-03-29 12:50:18.821 [pool-2-thread-18] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 12:50:18.961 [pool-2-thread-18] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 12:51:05.021 [pool-2-thread-1] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BCT 7 raghav1 2 hi
+2019-03-29 12:51:05.021 [pool-2-thread-1] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 7 raghav1 2 hi
+2019-03-29 12:51:12.622 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BCT 7 raghav1 2 hi
+2019-03-29 12:51:12.622 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 7 raghav1 2 hi
+2019-03-29 12:51:30.231 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"group_name":"group_name","msg_type":"TO_GROUP","sender_name":"raghav1","text":"text"}
+2019-03-29 12:51:30.236 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 34 There is no such group: group_name
+2019-03-29 13:06:24.005 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - REGISTER 7 raghav2 2 --
+2019-03-29 13:06:24.125 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 17 Register Success!
+2019-03-29 13:06:29.205 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 13:06:29.315 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 13:06:39.787 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 13:06:39.926 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 13:06:46.987 [pool-2-thread-7] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BCT 7 raghav1 2 hi
+2019-03-29 13:06:46.988 [pool-2-thread-7] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 7 raghav1 2 hi
+2019-03-29 13:06:47.006 [pool-2-thread-16] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 7 raghav1 2 hi
+2019-03-29 13:06:57.205 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BCT 7 raghav2 2 hi
+2019-03-29 13:06:57.205 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 7 raghav2 2 hi
+2019-03-29 13:06:57.386 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 7 raghav2 2 hi
+2019-03-29 13:07:15.206 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"group_name":"raghav1","msg_type":"TO_GROUP","sender_name":"raghav2","text":"hey"}
+2019-03-29 13:07:15.210 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 31 There is no such group: raghav1
+2019-03-29 13:07:57.441 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 13:07:57.550 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 13:08:07.459 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 13:08:07.592 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 13:08:24.044 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav1","text":"hi","recipient_name":"raghav2"}
+2019-03-29 13:08:24.058 [pool-2-thread-19] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav1","text":"hi","recipient_name":"raghav2"}
+2019-03-29 13:08:47.459 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BCT 7 raghav2 2 hi
+2019-03-29 13:08:47.459 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 7 raghav2 2 hi
+2019-03-29 13:08:47.661 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 7 raghav2 2 hi
+2019-03-29 13:31:40.140 [pool-2-thread-5] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 13:31:40.250 [pool-2-thread-5] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 13:31:53.300 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 6 raghav 2 --
+2019-03-29 13:31:53.303 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 36 Login failed! There is no such user!
+2019-03-29 13:31:59.699 [pool-2-thread-3] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 13:31:59.832 [pool-2-thread-3] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 13:32:03.098 [pool-2-thread-18] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BCT 7 raghav2 2 hi
+2019-03-29 13:32:03.098 [pool-2-thread-18] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 7 raghav2 2 hi
+2019-03-29 13:32:03.138 [pool-2-thread-8] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 7 raghav2 2 hi
+2019-03-29 13:32:48.100 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav2","text":"hihi","recipient_name":"raghav1"}
+2019-03-29 13:32:48.138 [pool-2-thread-14] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav2","text":"hihi","recipient_name":"raghav1"}
+2019-03-29 13:34:47.548 [pool-2-thread-4] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 13:34:47.655 [pool-2-thread-4] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 13:34:57.113 [pool-2-thread-18] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 13:34:57.259 [pool-2-thread-18] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 13:35:03.512 [pool-2-thread-9] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav2","text":"hihi","recipient_name":"raghav1"}
+2019-03-29 13:35:03.546 [pool-2-thread-7] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav2","text":"hihi","recipient_name":"raghav1"}
+2019-03-29 13:36:22.784 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 ragahv1 2 --
+2019-03-29 13:36:22.788 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 36 Login failed! There is no such user!
+2019-03-29 13:36:25.785 [pool-2-thread-4] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 13:36:25.900 [pool-2-thread-4] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 13:36:33.463 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 13:36:33.592 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 13:36:40.385 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BCT 7 raghav1 2 hi
+2019-03-29 13:36:40.385 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 7 raghav1 2 hi
+2019-03-29 13:36:40.463 [pool-2-thread-9] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 7 raghav1 2 hi
+2019-03-29 13:37:00.864 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav2","text":"heyhey","recipient_name":"raghav1"}
+2019-03-29 13:37:00.987 [pool-2-thread-18] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav2","text":"heyhey","recipient_name":"raghav1"}
+2019-03-29 13:39:57.351 [pool-2-thread-2] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 13:39:57.459 [pool-2-thread-2] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 13:40:18.426 [pool-2-thread-19] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 13:40:18.540 [pool-2-thread-19] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 13:41:33.429 [pool-2-thread-2] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav1","text":"hi","recipient_name":"raghav2"}
+2019-03-29 13:42:16.204 [pool-2-thread-9] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 13:42:16.315 [pool-2-thread-9] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 13:42:53.689 [pool-2-thread-19] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 13:42:53.799 [pool-2-thread-19] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 13:52:53.891 [pool-2-thread-15] ERROR edu.northeastern.ccs.im.server.ClientRunnable - Timing out or forcing off a user null
+2019-03-29 13:58:47.540 [pool-2-thread-1] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 13:58:47.649 [pool-2-thread-1] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 13:58:51.228 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 13:58:51.351 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 36 Login failed! Password is incorrect!
+2019-03-29 13:58:55.228 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 13:58:55.359 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 14:00:19.230 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav1","text":"hihihih","recipient_name":"raghav2"}
+2019-03-29 14:00:19.338 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav1","text":"hihihih","recipient_name":"raghav2"}
+2019-03-29 14:02:19.528 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 14:02:19.643 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 14:03:03.237 [pool-2-thread-1] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 1 r 2 --
+2019-03-29 14:03:03.241 [pool-2-thread-1] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 36 Login failed! There is no such user!
+2019-03-29 14:03:05.838 [pool-2-thread-2] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 14:03:05.958 [pool-2-thread-2] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 14:03:13.838 [pool-2-thread-18] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav2","text":"hihihiihihi","recipient_name":"raghav1"}
+2019-03-29 14:03:13.928 [pool-2-thread-2] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav2","text":"hihihiihihi","recipient_name":"raghav1"}
+2019-03-29 14:07:47.671 [pool-2-thread-18] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 1 r 2 --
+2019-03-29 14:07:47.676 [pool-2-thread-18] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 36 Login failed! There is no such user!
+2019-03-29 14:08:15.091 [pool-2-thread-16] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 14:08:15.214 [pool-2-thread-16] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 14:08:39.366 [pool-2-thread-3] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 14:08:39.486 [pool-2-thread-3] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:03:45.799 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 15:03:46.246 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:03:58.850 [pool-2-thread-8] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 15:03:59.012 [pool-2-thread-8] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:04:10.416 [pool-2-thread-3] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav1","text":"hihi","recipient_name":"raghav1"}
+2019-03-29 15:04:10.420 [pool-2-thread-3] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav1","text":"hihi","recipient_name":"raghav1"}
+2019-03-29 15:04:17.204 [pool-2-thread-7] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BCT 7 raghav1 2 hi
+2019-03-29 15:04:17.204 [pool-2-thread-7] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 7 raghav1 2 hi
+2019-03-29 15:04:17.247 [pool-2-thread-9] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BCT 7 raghav1 2 hi
+2019-03-29 15:04:59.807 [pool-2-thread-7] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 6 raghav 2 --
+2019-03-29 15:04:59.811 [pool-2-thread-7] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 36 Login failed! There is no such user!
+2019-03-29 15:05:02.607 [pool-2-thread-14] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 15:05:02.749 [pool-2-thread-14] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:05:30.615 [pool-2-thread-16] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 15:05:30.767 [pool-2-thread-16] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 36 Login failed! Password is incorrect!
+2019-03-29 15:05:35.615 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 15:05:35.746 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:05:59.416 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav2","text":"hihihi","recipient_name":"raghav1"}
+2019-03-29 15:05:59.607 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav2","text":"hihihi","recipient_name":"raghav1"}
+2019-03-29 15:07:22.065 [pool-2-thread-8] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 15:07:22.169 [pool-2-thread-8] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:07:32.178 [pool-2-thread-8] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 15:07:32.291 [pool-2-thread-8] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:07:49.169 [pool-2-thread-19] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 15:07:49.275 [pool-2-thread-19] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:08:08.156 [pool-2-thread-19] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 ragahv2 2 --
+2019-03-29 15:08:08.160 [pool-2-thread-19] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 36 Login failed! There is no such user!
+2019-03-29 15:08:11.356 [pool-2-thread-7] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 15:08:11.464 [pool-2-thread-7] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:08:59.602 [pool-2-thread-16] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 15:08:59.714 [pool-2-thread-16] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:09:04.997 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 ragahv2 2 --
+2019-03-29 15:09:05.002 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 36 Login failed! There is no such user!
+2019-03-29 15:09:47.403 [pool-2-thread-1] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav1","text":"hihi","recipient_name":"raghav2"}
+2019-03-29 15:10:27.797 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 15:10:27.935 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:10:53.603 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav1","text":"hihi","recipient_name":"raghav2"}
+2019-03-29 15:10:53.796 [pool-2-thread-9] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav1","text":"hihi","recipient_name":"raghav2"}
+2019-03-29 15:11:25.137 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 15:11:25.252 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:11:41.059 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 15:11:41.197 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:13:50.200 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 15:13:50.316 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:13:56.046 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 15:13:56.173 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:14:11.203 [pool-2-thread-5] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav1","text":"hihi","recipient_name":"raghav2"}
+2019-03-29 15:14:11.244 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav1","text":"hihi","recipient_name":"raghav2"}
+2019-03-29 15:21:57.502 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 15:21:57.624 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:22:04.863 [pool-2-thread-8] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 15:22:04.999 [pool-2-thread-8] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:22:23.103 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav1","text":"hihi","recipient_name":"raghav2"}
+2019-03-29 15:22:23.261 [pool-2-thread-8] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav1","text":"hihi","recipient_name":"raghav2"}
+2019-03-29 15:24:11.515 [pool-2-thread-8] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 15:24:11.635 [pool-2-thread-8] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:24:19.497 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 15:24:19.625 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:24:30.916 [pool-2-thread-18] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav1","text":"hihi","recipient_name":"raghav2"}
+2019-03-29 15:24:31.098 [pool-2-thread-5] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav1","text":"hihi","recipient_name":"raghav2"}
+2019-03-29 15:40:48.592 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 15:40:48.701 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 15:40:53.793 [pool-2-thread-18] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - CRG 7 raghav1 2 --
+2019-03-29 15:41:22.592 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - CRG 7 raghav1 2 --
+2019-03-29 15:41:22.643 [pool-2-thread-6] ERROR edu.northeastern.ccs.im.dao.DaoUtils - Could not create group in Database
+2019-03-29 15:41:22.643 [pool-2-thread-6] ERROR edu.northeastern.ccs.im.dao.DaoUtils - E11000 duplicate key error collection: test.group index: group_name_1 dup key: { : "foo" }
+2019-03-29 16:08:05.101 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - REGISTER 7 raghav1 2 --
+2019-03-29 16:08:05.538 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 17 Register Success!
+2019-03-29 16:08:13.029 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - REGISTER 7 raghav2 2 --
+2019-03-29 16:08:13.172 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 17 Register Success!
+2019-03-29 16:08:19.505 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 6 raghav 2 --
+2019-03-29 16:08:19.523 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 36 Login failed! There is no such user!
+2019-03-29 16:08:23.106 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 16:08:23.210 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 16:08:32.427 [pool-2-thread-7] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 16:08:32.545 [pool-2-thread-7] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 16:08:41.926 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav1","text":"hi","recipient_name":"raghav2"}
+2019-03-29 16:08:42.029 [pool-2-thread-3] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav1","text":"hi","recipient_name":"raghav2"}
+2019-03-29 16:08:52.842 [pool-2-thread-8] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - CRG 7 raghav2 2 --
+2019-03-29 16:09:12.227 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - CRG 7 raghav2 2 --
+2019-03-29 16:09:12.235 [pool-2-thread-12] ERROR edu.northeastern.ccs.im.dao.DaoUtils - Could not create group in Database
+2019-03-29 16:09:12.235 [pool-2-thread-12] ERROR edu.northeastern.ccs.im.dao.DaoUtils - E11000 duplicate key error collection: test.group index: group_name_1 dup key: { : "foo" }
+2019-03-29 16:09:12.237 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 27 Could not create group: foo
+2019-03-29 16:09:32.145 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - CRG 7 raghav1 2 --
+2019-03-29 16:09:32.204 [pool-2-thread-13] ERROR edu.northeastern.ccs.im.dao.DaoUtils - Could not create group in Database
+2019-03-29 16:09:32.204 [pool-2-thread-13] ERROR edu.northeastern.ccs.im.dao.DaoUtils - E11000 duplicate key error collection: test.group index: group_name_1 dup key: { : "foo" }
+2019-03-29 16:09:32.206 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 27 Could not create group: foo
+2019-03-29 16:44:37.029 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - REGISTER 7 raghav4 2 --
+2019-03-29 16:44:37.363 [pool-2-thread-17] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 17 Register Success!
+2019-03-29 16:44:56.904 [pool-2-thread-4] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 16:44:57.036 [pool-2-thread-4] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 16:45:14.658 [pool-2-thread-19] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav4 2 --
+2019-03-29 16:45:14.787 [pool-2-thread-19] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 16:46:25.829 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav4 2 --
+2019-03-29 16:46:25.931 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 16:46:38.355 [pool-2-thread-2] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 16:46:38.499 [pool-2-thread-2] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 16:47:12.240 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav4","text":"hihi","recipient_name":"raghav1"}
+2019-03-29 16:47:12.352 [pool-2-thread-14] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav4","text":"hihi","recipient_name":"raghav1"}
+2019-03-29 16:47:38.368 [pool-2-thread-14] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - CRG 7 raghav1 2 --
+2019-03-29 16:47:38.386 [pool-2-thread-14] ERROR edu.northeastern.ccs.im.dao.DaoUtils - Could not create group in Database
+2019-03-29 16:47:38.386 [pool-2-thread-14] ERROR edu.northeastern.ccs.im.dao.DaoUtils - E11000 duplicate key error collection: test.group index: group_name_1 dup key: { : "foo" }
+2019-03-29 16:47:38.388 [pool-2-thread-14] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 27 Could not create group: foo
+2019-03-29 16:47:52.630 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 16:47:52.794 [pool-2-thread-20] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 16:48:00.229 [pool-2-thread-16] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - CRG 7 raghav4 2 --
+2019-03-29 16:48:00.236 [pool-2-thread-16] ERROR edu.northeastern.ccs.im.dao.DaoUtils - Could not create group in Database
+2019-03-29 16:48:00.236 [pool-2-thread-16] ERROR edu.northeastern.ccs.im.dao.DaoUtils - E11000 duplicate key error collection: test.group index: group_name_1 dup key: { : "foo" }
+2019-03-29 16:48:00.238 [pool-2-thread-16] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 27 Could not create group: foo
+2019-03-29 16:48:35.149 [pool-2-thread-2] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav4 2 --
+2019-03-29 16:48:35.283 [pool-2-thread-2] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 16:49:09.549 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - CRG 7 raghav4 2 --
+2019-03-29 16:49:30.231 [pool-2-thread-9] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav1","text":"hi","recipient_name":"raghav4"}
+2019-03-29 16:49:30.348 [pool-2-thread-1] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav1","text":"hi","recipient_name":"raghav4"}
+2019-03-29 16:49:51.153 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"group_name":"foo2","msg_type":"TO_GROUP","sender_name":"raghav4","text":"hihi"}
+2019-03-29 16:49:51.191 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"group_name":"foo2","msg_type":"TO_GROUP","sender_name":"raghav4","text":"hihi"}
+2019-03-29 17:04:57.751 [pool-2-thread-15] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - REGISTER 7 raghav1 2 --
+2019-03-29 17:04:58.084 [pool-2-thread-15] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 17 Register Success!
+2019-03-29 17:05:09.764 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 17:05:09.903 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 17:05:25.567 [pool-2-thread-15] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - REGISTER 7 raghav2 2 --
+2019-03-29 17:05:25.737 [pool-2-thread-15] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 17 Register Success!
+2019-03-29 17:06:07.773 [pool-2-thread-9] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav1","text":"hihi","recipient_name":"raghav2"}
+2019-03-29 17:06:17.567 [pool-2-thread-1] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 17:06:17.718 [pool-2-thread-1] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 36 Login failed! Password is incorrect!
+2019-03-29 17:07:50.830 [pool-2-thread-5] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - REGISTER 7 raghav1 2 --
+2019-03-29 17:07:51.214 [pool-2-thread-5] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 17 Register Success!
+2019-03-29 17:07:55.442 [pool-2-thread-7] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 17:07:55.574 [pool-2-thread-7] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 17:08:00.649 [pool-2-thread-2] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - REGISTER 7 raghav2 2 --
+2019-03-29 17:08:00.824 [pool-2-thread-2] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 17 Register Success!
+2019-03-29 17:08:06.649 [pool-2-thread-2] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 17:08:06.789 [pool-2-thread-2] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 17:08:52.041 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - CRG 7 raghav1 2 --
+2019-03-29 17:09:26.441 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - CRG 7 raghav1 2 --
+2019-03-29 17:09:26.447 [pool-2-thread-6] ERROR edu.northeastern.ccs.im.dao.DaoUtils - Could not create group in Database
+2019-03-29 17:09:26.447 [pool-2-thread-6] ERROR edu.northeastern.ccs.im.dao.DaoUtils - E11000 duplicate key error collection: test.group index: group_name_1 dup key: { : "foo" }
+2019-03-29 17:09:26.449 [pool-2-thread-6] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 27 Could not create group: foo
+2019-03-29 17:10:02.442 [pool-2-thread-4] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BYE 7 raghav1 2 --
+2019-03-29 17:10:02.445 [pool-2-thread-4] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BYE 2 -- 2 --
+2019-03-29 17:10:05.049 [pool-2-thread-19] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BYE 7 raghav2 2 --
+2019-03-29 17:10:05.052 [pool-2-thread-19] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BYE 2 -- 2 --
+2019-03-29 17:10:14.886 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 6 raghav 2 --
+2019-03-29 17:10:14.891 [pool-2-thread-11] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 36 Login failed! There is no such user!
+2019-03-29 17:10:17.888 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav1 2 --
+2019-03-29 17:10:17.995 [pool-2-thread-13] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 17:10:25.852 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - HLO 7 raghav2 2 --
+2019-03-29 17:10:25.979 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	SYS 6 SYSTEM 14 Login Success!
+2019-03-29 17:11:07.899 [pool-2-thread-9] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - {"msg_type":"USER","sender_name":"raghav1","text":"hihihi","recipient_name":"raghav2"}
+2019-03-29 17:11:08.252 [pool-2-thread-10] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	{"msg_type":"USER","sender_name":"raghav1","text":"hihihi","recipient_name":"raghav2"}
+2019-03-29 17:11:43.288 [pool-2-thread-1] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BYE 7 raghav1 2 --
+2019-03-29 17:11:43.291 [pool-2-thread-1] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BYE 2 -- 2 --
+2019-03-29 17:11:46.455 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.communications.NetworkConnection - BYE 7 raghav2 2 --
+2019-03-29 17:11:46.462 [pool-2-thread-12] INFO  edu.northeastern.ccs.im.server.ClientRunnable - 	BYE 2 -- 2 --
